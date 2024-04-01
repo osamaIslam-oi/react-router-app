@@ -37,7 +37,7 @@ This is a React application for managing events. Users can add new events, edit 
 2. Navigate to the frontend directory: `cd react-router-event-app/frontend`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
-5. Open your browser and navigate to `http://localhost:3000`
+5. Open your browser 
 
 ### Backend
 1. Navigate to the backend directory: `cd react-router-event-app/backend`
@@ -46,7 +46,7 @@ This is a React application for managing events. Users can add new events, edit 
 
 ## Usage
 1. Start the development server: `npm start`
-2. Open your browser and navigate to `http://localhost:3000`
+2. Open your browser
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
