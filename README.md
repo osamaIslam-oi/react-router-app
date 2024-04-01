@@ -4,8 +4,6 @@
 This is a React application for managing events. Users can add new events, edit existing events, and delete events. The app utilizes React Router for dynamic client-side routing.
 
 ## Screenshots
-Include screenshots of your application here to give users a visual preview.
-
 ![Events page](images/events.png)
 
 ![New event page](images/new-event.png)
