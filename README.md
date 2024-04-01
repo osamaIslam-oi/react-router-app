@@ -5,10 +5,14 @@ This is a React application for managing events. Users can add new events, edit 
 
 ## Screenshots
 Include screenshots of your application here to give users a visual preview.
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot2.png)
-![Screenshot 4](/path/to/screenshot2.png)
+
+![Events page](images/events.png)
+
+![New event page](images/new-event.png)
+
+![Edit event page](images/edit-event.png)
+
+![Event details page](images/event-details.png)
 
 
 ## Features
